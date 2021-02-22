@@ -18,7 +18,7 @@ def dec1(func1):
         print("Excuting now")
     return nowexec()
 @dec1
-def who_is_harry():
+def who_is_davide():
     print("davide is a good boy")
 
-who_is_harry()
+who_is_davide()
